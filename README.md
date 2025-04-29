@@ -15,9 +15,9 @@
 Discover more about my work and projects on my portfolio website: [Adityarai.site](https://portfolio.adityarai.site/) 🚀
 
 ## 🔭Actions
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityarai11&theme=cobalt" alt="adityarai11"/>
-</div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityarai11&theme=dark" alt="adityarai11" /></p>
+
 
 ## &#x1f4c8; GitHub Stats
 <p>
