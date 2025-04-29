@@ -15,7 +15,11 @@
 Discover more about my work and projects on my portfolio website: [Adityarai.site](https://portfolio.adityarai.site/) 🚀
 
 ## 🔭Actions
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityarai11&theme=cobalt" alt="adityarai11"/>
+</div>
 
+## &#x1f4c8; GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityarai11&show_icons=true&locale=en&layout=compact&theme=dark" alt="adityarai11" />
 </p>
@@ -23,11 +27,6 @@ Discover more about my work and projects on my portfolio website: [Adityarai.sit
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityarai11&show_icons=true&locale=en&theme=dark" alt="adityarai11" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityarai11&theme=dark" alt="adityarai11" />
-</p>
-
 
 <div align="center" style="padding: 40px; border: 2px solid #e1e4e8; border-radius: 10px; background-color: #f9f9f9;">
   
